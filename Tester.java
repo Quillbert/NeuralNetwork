@@ -1,6 +1,23 @@
 import java.io.IOException;
 import java.util.*;
 
+/**
+ * 
+ * @author Andrew Hamby and Nolan Pozzobon
+ * Honor Pledge: All work here is honestly obtained and is my own.
+ * Assignment: Final Project: Neural Network Example
+ * Resources:
+ 		http://neuralnetworksanddeeplearning.com/chap1.html
+		https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+		https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh
+		Artificial Intelligence: A Modern Approach - Chapter 18
+		https://introcs.cs.princeton.edu/java/95linear/Matrix.java.html
+		https://github.com/turkdogan/mnist-data-reader
+		http://yann.lecun.com/exdb/mnist/
+
+ *
+ */
+
 public class Tester {
 
 	public static void main(String[] args) throws IOException {
