@@ -58,7 +58,6 @@ public class Tester {
 				targets[test.getLabel()] = 1;
 				network.train(inputs, targets);//trains based off of test set
 			}
-			int correct = 0;
 			System.out.println("Accuracy: " + evaluateAccuracy(network, testSet)*100 + "%");
 			//network.learningRate *= 0.999;//increments down learning rate to be more specific
 		}
